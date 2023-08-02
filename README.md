@@ -62,3 +62,12 @@ Casas decimais são separadas por pontos não por virgula e fora das aspas
 - true
 - false
 - "true" ou "false"
+
+<h2>13 - Aula</h2>
+
+<h3>Operadores</h3>
+
+- = operador de atribuição
+- += operador de atribuição com soma
+- = operador de subtração
+- -= operador de atribuição com subtração
