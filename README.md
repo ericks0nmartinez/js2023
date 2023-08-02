@@ -25,3 +25,9 @@ adicionar um bloco de comentário
 - subtração -
 - Divisão /
 - Multiplicação \*
+
+9 - Aula
+
+<h3>String</h3>
+
+Letras, palavras ou textos entre aspas simples ou duplas
