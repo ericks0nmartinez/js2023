@@ -86,3 +86,11 @@ Casas decimais são separadas por pontos não por virgula e fora das aspas
 - <= menor ou igual que
 
 Sempre retorna boolean
+
+<h2>14 - Aula</h2>
+
+<h3>Operadores logicos</h3>
+
+- && E / AND lógicos
+- || OU / OR lógico
+- ! negação lógica
