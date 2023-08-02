@@ -54,3 +54,11 @@ Letras, palavras ou textos entre aspas simples ou duplas
 - integers
 
 Casas decimais são separadas por pontos não por virgula e fora das aspas
+
+<h2>12 - Aula</h2>
+
+<h3>Boolean</h3>
+
+- true
+- false
+- "true" ou "false"
