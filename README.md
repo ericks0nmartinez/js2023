@@ -71,3 +71,18 @@ Casas decimais são separadas por pontos não por virgula e fora das aspas
 - += operador de atribuição com soma
 - = operador de subtração
 - -= operador de atribuição com subtração
+
+<h2>14 - Aula</h2>
+
+<h3>Operadores de comparação</h3>
+
+- == igual
+- != diferente
+- === estritamente igual
+- !== estritamente diferente
+- \> maior que
+- < menor que
+- \>= maior ou igual que
+- <= menor ou igual que
+
+Sempre retorna boolean
