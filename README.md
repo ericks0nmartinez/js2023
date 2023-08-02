@@ -1,4 +1,4 @@
-7 - Aula
+<h2>7 - Aula</h2>
 
 <h3> Tipos de dados </h3>
 
@@ -9,7 +9,7 @@
 - String
 - Objetos
 
-8 - Aula
+<h2>8 - Aula</h2>
 
 <h3> Adicionar comentários  </h3>
 
@@ -26,13 +26,13 @@ adicionar um bloco de comentário
 - Divisão /
 - Multiplicação \*
 
-9 - Aula
+<h2>9 - Aula</h2>
 
 <h3>String</h3>
 
 Letras, palavras ou textos entre aspas simples ou duplas
 
-10 - Aula
+<h2>10 - Aula</h2>
 
 <h3>Variaveis</h3>
 
@@ -44,3 +44,13 @@ Letras, palavras ou textos entre aspas simples ou duplas
 
 - const:
   // permitir adicionar e não permite alterar o valor nem ser declarado novamente
+
+<h2>11 - Aula</h2>
+
+<h3>Numeros</h3>
+
+- float
+- double
+- integers
+
+Casas decimais são separadas por pontos não por virgula e fora das aspas
