@@ -87,10 +87,20 @@ Casas decimais são separadas por pontos não por virgula e fora das aspas
 
 Sempre retorna boolean
 
-<h2>14 - Aula</h2>
+<h2>15 - Aula</h2>
 
 <h3>Operadores logicos</h3>
 
 - && E / AND lógicos
 - || OU / OR lógico
 - ! negação lógica
+
+<h2>16 - Aula</h2>
+
+<h3>Padrões ou conveções</h3>
+
+- Variaveis: espaço na memória
+- Conveções:
+  NOME_VARIAVEL: referencias
+  nomeDaMinhaVariavel: padrão para qualquer variavel
+- Palavras reservadas: abstract, await, boolean, ect...
