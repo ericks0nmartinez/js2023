@@ -116,5 +116,12 @@ Sempre retorna boolean
 
 <h3>NaN</h3>
 
-- operação matematica expressão errada
-- not a number
+- Operação matematica expressão errada
+- Not a number
+
+<h2>18 - Aula</h2>
+
+<h3>Blocos de código</h3>
+
+- Estruturas condicionais
+- Código fica compreendido dentro de {}
