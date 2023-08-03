@@ -104,3 +104,10 @@ Sempre retorna boolean
   NOME_VARIAVEL: referencias
   nomeDaMinhaVariavel: padrão para qualquer variavel
 - Palavras reservadas: abstract, await, boolean, ect...
+
+<h2>17 - Aula</h2>
+
+<h3>Null != Undefined</h3>
+
+- null: ausencia proposital de valor
+- undefined: quando um valor é esperado mais não existe
