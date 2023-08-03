@@ -111,3 +111,10 @@ Sempre retorna boolean
 
 - null: ausencia proposital de valor
 - undefined: quando um valor é esperado mais não existe
+
+<h2>18 - Aula</h2>
+
+<h3>NaN</h3>
+
+- operação matematica expressão errada
+- not a number
