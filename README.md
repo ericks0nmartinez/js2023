@@ -145,3 +145,9 @@ Todos os valores são verdadeiros em uma estrutura menos
 <h3>Operador ternário</h3>
 
 - (validação) ? (true) : (false)
+
+<h2>22 - Aula</h2>
+
+<h3>Switch case</h3>
+
+- Estrutura de condição para validar casos e executar um bloco de instruções
