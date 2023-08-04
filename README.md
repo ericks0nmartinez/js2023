@@ -139,3 +139,9 @@ Todos os valores são verdadeiros em uma estrutura menos
 - "" ou '' ou ``
 - undefined
 - NaN
+
+<h2>21 - Aula</h2>
+
+<h3>Operador ternário</h3>
+
+- (validação) ? (true) : (false)
