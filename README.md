@@ -125,3 +125,17 @@ Sempre retorna boolean
 
 - Estruturas condicionais
 - Código fica compreendido dentro de {}
+
+<h2>20 - Aula</h2>
+
+<h3>Truthy ou falsy</h3>
+
+Todos os valores são verdadeiros em uma estrutura menos
+
+- fasle
+- 0
+- -0
+- 0n
+- "" ou '' ou ``
+- undefined
+- NaN
