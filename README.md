@@ -151,3 +151,27 @@ Todos os valores são verdadeiros em uma estrutura menos
 <h3>Switch case</h3>
 
 - Estrutura de condição para validar casos e executar um bloco de instruções
+
+<h2>23 - Aula</h2>
+
+<h3>While</h3>
+
+- loop de repetição enquanto a condição de teste for avaliada como verdadeira, validada antes da execução
+
+<h2>24 - Aula</h2>
+
+<h3>Do While</h3>
+
+- loop de repetição enquanto a condição for falsa, validada feita depois da execução
+
+<h2>25 - Aula</h2>
+
+<h3>For</h3>
+
+- loop de repetição com tês expressões opcionais declarações executadas em sequência
+
+<h2>25 - Aula</h2>
+
+<h3>For Of</h3>
+
+- percorre objetos iterativo, chamando uma funçao personalizada com instruções a serem executadas para o valor de cada objeto
