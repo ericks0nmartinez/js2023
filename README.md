@@ -163,3 +163,9 @@ Todos os valores são verdadeiros em uma estrutura menos
 <h3>Do While</h3>
 
 - loop de repetição enquanto a condição for falsa, validada feita depois da execução
+
+<h2>25 - Aula</h2>
+
+<h3>For</h3>
+
+- loop de repetição com tês expressões opcionais declarações executadas em sequência
