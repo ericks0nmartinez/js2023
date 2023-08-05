@@ -151,3 +151,9 @@ Todos os valores são verdadeiros em uma estrutura menos
 <h3>Switch case</h3>
 
 - Estrutura de condição para validar casos e executar um bloco de instruções
+
+<h2>23 - Aula</h2>
+
+<h3>While</h3>
+
+- loop de repetição enquanto a condição de teste for avaliada como verdadeira, validada antes da execução
