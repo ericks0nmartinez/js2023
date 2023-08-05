@@ -169,3 +169,9 @@ Todos os valores são verdadeiros em uma estrutura menos
 <h3>For</h3>
 
 - loop de repetição com tês expressões opcionais declarações executadas em sequência
+
+<h2>25 - Aula</h2>
+
+<h3>For Of</h3>
+
+- percorre objetos iterativo, chamando uma funçao personalizada com instruções a serem executadas para o valor de cada objeto
