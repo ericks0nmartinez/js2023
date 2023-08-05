@@ -181,3 +181,9 @@ Todos os valores são verdadeiros em uma estrutura menos
 <h3>Funções</h3>
 
 - Conjunto de instrunções que executa uma determinada tarefa, uma maneira de reaproveitar o código, sem precisar escreve-lo diversas vezes
+
+<h2>28 - Aula</h2>
+
+<h3>return</h3>
+
+- palavra reservada para retorna o resutado de uma instrução executada
