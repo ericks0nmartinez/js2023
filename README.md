@@ -170,8 +170,20 @@ Todos os valores são verdadeiros em uma estrutura menos
 
 - loop de repetição com tês expressões opcionais declarações executadas em sequência
 
-<h2>25 - Aula</h2>
+<h2>26 - Aula</h2>
 
 <h3>For Of</h3>
 
 - percorre objetos iterativo, chamando uma funçao personalizada com instruções a serem executadas para o valor de cada objeto
+
+<h2>27 - Aula</h2>
+
+<h3>Funções</h3>
+
+- Conjunto de instrunções que executa uma determinada tarefa, uma maneira de reaproveitar o código, sem precisar escreve-lo diversas vezes
+
+<h2>28 - Aula</h2>
+
+<h3>return</h3>
+
+- palavra reservada para retorna o resutado de uma instrução executada
