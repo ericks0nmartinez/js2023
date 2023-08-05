@@ -157,3 +157,9 @@ Todos os valores são verdadeiros em uma estrutura menos
 <h3>While</h3>
 
 - loop de repetição enquanto a condição de teste for avaliada como verdadeira, validada antes da execução
+
+<h2>24 - Aula</h2>
+
+<h3>Do While</h3>
+
+- loop de repetição enquanto a condição for falsa, validada feita depois da execução
