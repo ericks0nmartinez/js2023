@@ -29,6 +29,10 @@ console.log("findIndex:", findIndexNumber);
 const filterPeople = createArrayPeoples.filter((item) => item === "Erickson");
 console.log("filterPeople:", filterPeople);
 
+//splice
+createArrayPeoples.splice("Erickson", 1);
+console.log("splicePeople:", createArrayPeoples);
+
 // forEach
 allTypes.forEach((element) => {
   console.log("allTypes:", element);
