@@ -1,8 +1,5 @@
 //Array                         0         1       2          3
 const createArrayPeoples = ["Erickson", "Jaq", "Jova", "Gustavo"];
-const allTypes = [50, true, "Jaq", 1, null, "Erickson", undefined];
-const numbers = [1, 2, 3, 4, 1, 5];
-
 //length
 console.log("length", createArrayPeoples.length);
 // position
@@ -13,6 +10,7 @@ for (const people of createArrayPeoples) {
   console.log("people:", people);
 }
 
+const numbers = [0, 1, 2, 3, 4, 1, 5];
 //filter
 const numberRepite = numbers.filter((number) => number === 1);
 console.log("numberRepite:", numberRepite);
@@ -21,18 +19,7 @@ console.log("numberRepite:", numberRepite);
 const firstNumber = numbers.find((number) => number === 1);
 console.log("firstNumber:", firstNumber);
 
-//findIndex
-const findIndexNumber = numbers.findIndex((item) => item === 3);
-console.log("findIndex:", findIndexNumber);
-
-//filter
-const filterPeople = createArrayPeoples.filter((item) => item === "Erickson");
-console.log("filterPeople:", filterPeople);
-
-//splice
-createArrayPeoples.splice("Erickson", 1);
-console.log("splicePeople:", createArrayPeoples);
-
+const allTypes = ["Erickson", 50, true, "Jaq", 1, null, undefined];
 // forEach
 allTypes.forEach((element) => {
   console.log("allTypes:", element);

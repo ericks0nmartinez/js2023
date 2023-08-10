@@ -187,3 +187,24 @@ Todos os valores são verdadeiros em uma estrutura menos
 <h3>return</h3>
 
 - palavra reservada para retorna o resutado de uma instrução executada
+
+<h2>29 - Aula</h2>
+
+<h3>Array</h3>
+
+- objeto de alto nivel semelhante a lista de varios tipos e valores
+
+<h2>30 - Aula</h2>
+
+<h3>Array: metodos e propriedades</h3>
+
+- length
+- filter
+- find
+- findIndex
+- forEach
+- map
+- push
+- pop
+- splice
+- reverse
