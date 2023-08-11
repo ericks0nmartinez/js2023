@@ -228,3 +228,13 @@ Todos os valores são verdadeiros em uma estrutura menos
 <h3>Assincronismo</h3>
 
 - É quando fazemos um processamento que não tem tempo determinado de conclusão
+
+<h2>38 - Aula</h2>
+
+<h3>ES6</h3>
+
+- Rest parameters
+- Arrow functions
+- destructuring
+- spread operator
+- async await
