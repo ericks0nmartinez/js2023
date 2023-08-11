@@ -208,3 +208,23 @@ Todos os valores são verdadeiros em uma estrutura menos
 - pop
 - splice
 - reverse
+
+<h2>35 - Aula</h2>
+
+<h3>Objects</h3>
+
+- objeto é uma coleção de dados e/ou funcionalidades relacionadas (que geralmente consistem em diversas variáveis e funções — que são chamadas de propriedades e métodos quando estão dentro de objetos)
+
+<h2>36 - Aula</h2>
+
+<h3>Array with Objects</h3>
+
+- Arrays são objetos semelhantes a listas que vêm com uma série de métodos embutidos para realizar operações de travessia e mutação
+
+- objeto é uma coleção de dados e/ou funcionalidades relacionadas (que geralmente consistem em diversas variáveis e funções — que são chamadas de propriedades e métodos quando estão dentro de objetos)
+
+<h2>37 - Aula</h2>
+
+<h3>Assincronismo</h3>
+
+- É quando fazemos um processamento que não tem tempo determinado de conclusão
