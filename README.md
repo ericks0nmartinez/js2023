@@ -238,3 +238,9 @@ Todos os valores são verdadeiros em uma estrutura menos
 - destructuring
 - spread operator
 - async await
+
+<h2>43 - Aula</h2>
+
+<h3>Try catch and finally</h3>
+
+- Try marca um bloco de declaração para testar. Catch declaração para caso de exceção, tratamento de erro amigavel
